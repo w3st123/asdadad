@@ -54,4 +54,4 @@ end)
 
 -- // Revert
 setreadonly(mt, true)
-getgenv().ValiantAimHacks.FOV = 5.43
+getgenv().ValiantAimHacks.FOV = 6.12
